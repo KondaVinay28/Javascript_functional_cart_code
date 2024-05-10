@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#cart-add,
+#remove-cart,
+#empty-cart {
+  border: none;
+  margin: 30px;
+  background-color: lightgreen;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
